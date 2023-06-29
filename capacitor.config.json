@@ -1,6 +1,6 @@
 {
-  "appId": "nuxt.app",
-  "appName": "nuxt-app",
+  "appId": "rate.my.app",
+  "appName": "Rate My",
   "webDir": "dist",
   "bundledWebRuntime": false
 }
